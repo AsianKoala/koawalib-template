@@ -12,12 +12,11 @@ When new updates are pushed to koawalib, the user can choose how/when to upgrade
  
 1. Fork this repository
 2. Clone [koawalib](https://github.com/AsianKoala/koawalib) in the same directory
-3. cd into the fork
-4. Add this template repo as a remote
-5. Fetch 
-6. Merge with the local-koawalib branch of this repository
-7. Check if koawalib is working as intended
-8. Update changes on your own repo
+3. cd into the directory
+4. Merge with the local-koawalib branch of this repository
+5. Remove this repo as a remote
+6. Add your own repo as a remote
+7. Push and set your repo's master branch as upstream
 
 Here is an example of me following the above steps with my personal repository.
 
